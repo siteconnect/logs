@@ -1,4 +1,5 @@
 📝 Log de Versões
+
 🚀 Versão 5.5.0 - 14/12/2024 
 ✅ Correção ao Redimensionar Área de Ticket: Erro corrigido ao redimensionar.
 ✅ Correção de toastError.js: Problema resolvido no toastError.js.
@@ -38,4 +39,3 @@
 ✅ API atualizada. 
 ✅ Novo layout da página de login. 
 ✅ Indicação “Digitando” ou “Gravando” aparece no ticket, no canto inferior direito, ao lado do nome.
-
