@@ -1,5 +1,5 @@
 📝 Log de Versões
-🚀 Versão 5.5.0 - 13/11/2024 (13:17)
+🚀 Versão 5.5.0 - 14/12/2024 
 ✅ Correção ao Redimensionar Área de Ticket: Erro corrigido ao redimensionar.
 ✅ Correção de toastError.js: Problema resolvido no toastError.js.
 ✅ Validação do Número no ContactModal: Validação aprimorada.
@@ -24,7 +24,23 @@
 ✅ Atualização Financeira após Alteração de Plano: Valor ajustado automaticamente na lista do Financeiro.
 
 🚀 Versão 5.2.6 - 31/08/2024
-✅ Fechar todos os tickets abertos ou em espera. ✅ Reagir a uma mensagem. ✅ Encaminhar mensagens para outro ticket. ✅ Aparência do menu aprimorada. ✅ Botão “Sair” adicionado ao menu. ✅ Notificação quando uma mensagem é apagada no WhatsApp, informando no chat. ✅ API atualizada. ✅ Novo layout da página de login. ✅ Indicação “Digitando” ou “Gravando” aparece no ticket, no canto inferior direito, ao lado do nome.
+✅ Fechar todos os tickets abertos ou em espera. 
+✅ Reagir a uma mensagem. 
+✅ Encaminhar mensagens para outro ticket. 
+✅ Aparência do menu aprimorada. 
+✅ Botão “Sair” adicionado ao menu. 
+✅ Notificação quando uma mensagem é apagada no WhatsApp, informando no chat. 
+✅ API atualizada. ✅ Novo layout da página de login. 
+✅ Indicação “Digitando” ou “Gravando” aparece no ticket, no canto inferior direito, ao lado do nome.
 
 24/07/2024
-✅ Fizemos correção no Vcard ✅ Função de habilitar e desabilitar novos registros ✅ Tempo de Trial disponível no Painel ✅Respostas rápidas visualizadas por todos os usuários ✅ Contatos agora aparece se é um número ok e o horário da última interação ✅ Agora é possível ver o número que está conectado no Whaticket ✅ Botão para reiniciar conexões adicionado ✅ Alterar logo pelo Painel ✅ Adicionado nova ABA Cadastrar Empresa ✅ Add Opção Plano Interno
+✅ Fizemos correção no Vcard 
+✅ Função de habilitar e desabilitar novos registros 
+✅ Tempo de Trial disponível no Painel 
+✅Respostas rápidas visualizadas por todos os usuários 
+✅ Contatos agora aparece se é um número ok e o horário da última interação 
+✅ Agora é possível ver o número que está conectado no Whaticket 
+✅ Botão para reiniciar conexões adicionado 
+✅ Alterar logo pelo Painel 
+✅ Adicionado nova ABA Cadastrar Empresa 
+✅ Add Opção Plano Interno
